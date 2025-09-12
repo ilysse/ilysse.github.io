@@ -1,6 +1,6 @@
 {
-    "name": "productmaster",
-    "short_name": "productmaster",
+    "name": "halamaster",
+    "short_name": "hala",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
